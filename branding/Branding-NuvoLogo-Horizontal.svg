@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="992"
+   height="256"
+   viewBox="0 0 992 256"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="Branding-NuvoLogo-Horizontal.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title9">NovaLogo</title>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#030303"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#b1b1b1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="533.15851"
+     inkscape:cy="18.384776"
+     inkscape:window-width="1366"
+     inkscape:window-height="702"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="-48"
+       originy="-48"
+       spacingx="0.8"
+       spacingy="0.8"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect9"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,64.000001,0,1 @ F,0,0,1,0,64.000004,0,1 @ F,0,0,1,0,63.999985,0,1 @ F,0,0,1,0,63.999984,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect8"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,63.999995,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect7"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,63.999995,0,1 @ F,0,0,1,0,63.999994,0,1 @ F,0,0,1,0,63.999996,0,1 @ F,0,0,1,0,63.999985,0,1 | F,0,0,1,0,63.999995,0,1 @ F,0,0,1,0,64.000003,0,1 @ F,0,0,1,0,63.999985,0,1 @ F,0,0,1,0,63.999997,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect4"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,63.999996,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect4-1"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,63.999996,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <g
+     inkscape:label="Logo"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-48.000001,-48.000001)">
+    <path
+       id="path1"
+       style="fill:#ffffff"
+       d="M 48.000001 48.000001 L 48.000001 304 L 112 304 L 112 160 L 240 304 L 240 192 L 112 48.000001 L 48.000001 48.000001 z "
+       inkscape:label="n" />
+    <path
+       id="path2"
+       style="fill:#ffffff"
+       d="M 272 48.000001 L 272 240 A 63.999995 63.999995 0 0 0 336 304 L 528 304 L 528 48.000001 L 464 48.000001 L 464 240 L 336 240 L 336 48.000001 L 272 48.000001 z "
+       inkscape:label="u" />
+    <path
+       style="fill:#ffffff"
+       d="m 336.00001,240 v 64 h 128 a 63.999996,63.999996 135 0 0 64,-64 V 48.000001 h -64 V 240 Z"
+       id="path4-0"
+       inkscape:path-effect="#path-effect4-1"
+       inkscape:original-d="m 336.00001,240 v 64 h 192 V 48.000001 h -64 V 240 Z"
+       transform="translate(224)"
+       inkscape:label="v" />
+    <path
+       id="path6"
+       style="fill:#ffffff"
+       d="m 784.00001,112 v 127.99999 a 64.000004,64.000004 45 0 0 64,64 h 128 A 63.999985,63.999985 135 0 0 1040,240.00001 V 111.99999 A 63.999984,63.999984 45 0 0 976.00002,48.000002 H 848.00001 a 64.000001,64.000001 135 0 0 -64,63.999998 z m 64,-1e-5 h 127.99998 v 128 H 848.00001 Z"
+       inkscape:path-effect="#path-effect9"
+       inkscape:original-d="M 784.00001,48.000002 V 303.99999 H 1040 V 48.000002 Z m 64,63.999988 h 127.99998 v 128 H 848.00001 Z"
+       inkscape:label="o" />
+  </g>
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="https://www.gnu.org/licenses/gpl-3.0.txt" />
+        <dc:title>NovaLogo</dc:title>
+        <dc:date>10.17.2026</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>ercogu</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Nuvo Logo</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
