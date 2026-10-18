@@ -10,6 +10,7 @@ All notable changes to this project will be documented in this file.
 - *(repo)* Documentation changes
 - *(repo)* Added a gitignore
 - *(repo)* Describe Docker build environment in README
+- *(repo)* Added a Roadmap (+stage index and report conventions)
 
 ### 🎨 Styling
 
@@ -21,6 +22,7 @@ All notable changes to this project will be documented in this file.
 - Update changelog
 - Update changelog
 - *(repo)* Added the GPL-v3 license-checker for the repository
+- Update changelog
 - Update changelog
 - Update changelog
 - Update changelog
