@@ -32,12 +32,25 @@ git clone https://github.com/ercogu/Nuvo-OS.git
 cd Nuvo-OS
 ```
 
+The build environment (cross-compiler, NASM, QEMU, make, git) is provided as a Docker image, so the only thing you need on your host is [Docker](https://docs.docker.com/engine/install/).
+
+```bash
+# build the image once (downloads about 834 MB)
+docker build -t nuvo-os-dev docker/
+
+# start a shell inside the environment, the repository is mounted at /work
+docker run --rm -it --user $(id -u):$(id -g) -v "$PWD":/work:Z nuvo-os-dev
+```
+
+See [`docker/README.md`](docker/README.md) for details.
+
 ## Repository layout
 
 |Path|Description|
 |---|---|
 |[`branding/`](branding)|Logos and brand assets|
 |[`docs/`](docs)|Documentation (`en`, `ru`), including [credits](docs/en/CREDITS.md)|
+|[`docker/`](docker)|Dockerfile and docs for the build environment|
 |[`scripts/`](scripts)|Helper scripts|
 |[`templates/license-headers/`](templates/license-headers)|GPL-3.0 license header templates for source files|
 |[`.github/workflows/`](.github/workflows)|CI and automation (e.g. auto-generated changelog)|

@@ -32,12 +32,25 @@ git clone https://github.com/ercogu/Nuvo-OS.git
 cd Nuvo-OS
 ```
 
+Окружение для сборки (кросс-компилятор, NASM, QEMU, make, git) поставляется в виде Docker-образа, поэтому на хосте нужен только [Docker](https://docs.docker.com/engine/install/).
+
+```bash
+# Собрать образ один раз
+docker build -t nuvo-os-dev docker/
+
+# Открыть оболочку внутри окружения, репозиторий подключён в /work
+docker run --rm -it --user $(id -u):$(id -g) -v "$PWD":/work:Z nuvo-os-dev
+```
+
+Подробности смотрите в [`docker/README.ru.md`](docker/README.ru.md).
+
 ## Структура репозитория
 
 |Путь|Описание|
 |---|---|
 |[`branding/`](branding)|Логотипы и фирменные материалы|
 |[`docs/`](docs)|Документация (`en`, `ru`), включая [благодарности](docs/ru/CREDITS.md)|
+|[`docker/`](docker)|Dockerfile и документация окружения для сборки|
 |[`scripts/`](scripts)|Вспомогательные скрипты|
 |[`templates/license-headers/`](templates/license-headers)|Шаблоны заголовков лицензии GPL-3.0 для исходных файлов|
 |[`.github/workflows/`](.github/workflows)|CI и автоматизация (например, автогенерация списка изменений)|
