@@ -44,6 +44,14 @@ docker run --rm -it --user $(id -u):$(id -g) -v "$PWD":/work:Z nuvo-os-dev
 
 See [`docker/README.md`](docker/README.md) for details.
 
+## Roadmap
+
+Development is split into stages. Each stage has a description, goal, theory, plan, and a report with screenshots. The full list is in the [roadmap](docs/ru/roadmap/README.md) (currently available in Russian only).
+
+|Stage|Title|Status|
+|---|---|---|
+|000|[Environment setup](docs/ru/roadmap/000_Настройка_окружения.md)|Done|
+
 ## Repository layout
 
 |Path|Description|
